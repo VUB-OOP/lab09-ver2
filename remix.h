@@ -8,6 +8,7 @@ public:
         std::string remixer,
         bool produzena);
   void sviraj(); // nadglasavanje
+  std::string dohvatiInformacije(); // nadglasavanje
 
 protected:
   std::string remixer;
